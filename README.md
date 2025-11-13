@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **Sistema de Vendas** é uma aplicação baseada em arquitetura de microsserviços desenvolvida durante
+Aplicação baseada em arquitetura de microsserviços desenvolvida durante
 o curso **Especialista Java Back-end**, na Ebac e tem como finalidade, gerenciar operações de vendas, clientes 
 e produtos de forma escalável e distribuída.
 O projeto foi construído seguindo as melhores práticas de desenvolvimento de software,
